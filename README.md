@@ -16,6 +16,15 @@ Collect  papers for ETVPers.
 
 - **[Semantic Segmentation, Performance Evaluation]**  Rethinking Semantic Segmentation Evaluation for Explainability and Model Selection [[paper](https://arxiv.org/pdf/2101.08418.pdf)] 
 - **[U-Net, image segmentation]** ANALYSIS OF INFORMATION FLOW THROUGH U-NETS[[paper](https://arxiv.org/pdf/2101.08427.pdf)]
-- 
+
+### 2021.1.29
+
+- **[Bottleneck ,Tansformer]**  Bottleneck Transformers for Visual Recognition [[paper](https://arxiv.org/abs/2101.11605)] [[code](https://github.com/lucidrains/bottleneck-transformer-pytorch)]
+
+### 2021.1.30
+
+- **[Tokens-to-Token,ViT]**  Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet[[paper](https://arxiv.org/abs/2101.11986)] [[code](https://github.com/yitu-opensource/T2T-ViT)]
+
+
 
 Thanks the template from [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
