@@ -27,13 +27,13 @@ Collect  papers for ETVPers.
 
 ### 2021.2.3
 
-- **[Self-supervised learning ,Nuclei instance segmentation]**Instance-Aware Self-supervised Learning for Nuclei Segmentation[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_33)]
-- **[MIL]**Multiple Instance Learning with Center Embeddings for Histopathology Classification[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_50)]
-- **[Self-supervision,Attention models]**Self-supervised Nuclei Segmentation in Histopathological Images Using Attention[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_38)] [[code](https://github.com/msahasrabudhe/miccai2020_self_sup_nuclei_seg)]
+- **[Self-supervised learning ,Nuclei instance segmentation]** Instance-Aware Self-supervised Learning for Nuclei Segmentation[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_33)]
+- **[MIL]** Multiple Instance Learning with Center Embeddings for Histopathology Classification[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_50)]
+- **[Self-supervision,Attention models]** Self-supervised Nuclei Segmentation in Histopathological Images Using Attention[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_38)] [[code](https://github.com/msahasrabudhe/miccai2020_self_sup_nuclei_seg)]
 
 
 
-### 
+
 
 
 
