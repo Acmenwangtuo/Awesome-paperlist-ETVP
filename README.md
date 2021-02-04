@@ -31,6 +31,10 @@ Collect  papers for ETVPers.
 - **[MIL]** Multiple Instance Learning with Center Embeddings for Histopathology Classification[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_50)]
 - **[Self-supervision,Attention models]** Self-supervised Nuclei Segmentation in Histopathological Images Using Attention[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_38)] [[code](https://github.com/msahasrabudhe/miccai2020_self_sup_nuclei_seg)]
 
+### 2021.2.4
+
+- **[Attention,Segmentation]** Squeeze-and-Attention Networks for Semantic Segmentation [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhong_Squeeze-and-Attention_Networks_for_Semantic_Segmentation_CVPR_2020_paper.pdf)] [[code](https://github.com/its-mayank/SqueezeAttention-PyTorch)]
+
 
 
 
