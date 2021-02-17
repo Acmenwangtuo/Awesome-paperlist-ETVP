@@ -35,6 +35,11 @@ Collect  papers for ETVPers.
 
 - **[Attention,Segmentation]** Squeeze-and-Attention Networks for Semantic Segmentation [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhong_Squeeze-and-Attention_Networks_for_Semantic_Segmentation_CVPR_2020_paper.pdf)] [[code](https://github.com/its-mayank/SqueezeAttention-PyTorch)]
 
+### 2021.2.17
+
+- **[Transformer,UNet]**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation[[paper](https://arxiv.org/abs/2102.04306)] [[code](https://github.com/Beckschen/TransUNet)]
+- **[Computational pathology,Multi-resolution]** HookNet: Multi-resolution convolutional neural networks for semantic segmentation in histopathology whole-slide images[[paper](https://arxiv.org/abs/2006.12230)] [[code](https://github.com/computationalpathologygroup/hooknet)]
+
 
 
 
