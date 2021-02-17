@@ -38,7 +38,14 @@ Collect  papers for ETVPers.
 ### 2021.2.17
 
 - **[Transformer,UNet]** TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation[[paper](https://arxiv.org/abs/2102.04306)] [[code](https://github.com/Beckschen/TransUNet)]
+
 - **[Computational pathology,Multi-resolution]** HookNet: Multi-resolution convolutional neural networks for semantic segmentation in histopathology whole-slide images[[paper](https://arxiv.org/abs/2006.12230)] [[code](https://github.com/computationalpathologygroup/hooknet)]
+
+- **[Active Learning] ** Diminishing Uncertainty within the Training Pool:
+
+  Active Learning for Medical Image Segmentation [[paper](https://arxiv.org/abs/2101.02323)]
+
+- **[Interpretable,CAM]**  Interpretable multimodal fusion networks reveal mechanisms of brain cognition [[paper](https://arxiv.org/abs/2006.09454)]
 
 
 
